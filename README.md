@@ -5,6 +5,13 @@
 - These accounts are good for member boosting for your server or for raiding
 - Uses HCAPTCHA Bypass
 - Accounts created are unlocked!
+
+# Requirements
+- Brain 
+- Download & put the hcaptcha.py file inside the project folder, check my hcaptcha bypass repo for the file
+- httpx https://pypi.org/project/httpx/
+- Rotating Proxies
+
 # USAGE
 - put server invite code inside ( invitecode = "") so that the accounts will join the server after creation
 - add proxies inside "all://": "http://username:pass@ip:port" or "all://": "http://ip:port" depending on your proxies authentication
