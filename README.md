@@ -1,7 +1,8 @@
 # discord-tokens-generator
 
 # INFO
-- This is a Discord Token Generator which creates unverified accounts good for member boosting for your server or for raiding purposes!
+- This is a Simple Discord Token Generator which creates unverified discord accounts 
+- These accounts are good for member boosting for your server or for raiding
 - Uses HCAPTCHA Bypass
 - Accounts created are unlocked!
 # USAGE
