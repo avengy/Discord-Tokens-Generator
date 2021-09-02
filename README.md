@@ -6,7 +6,7 @@
 - Accounts created are unlocked!
 # USAGE
 - put server invite code inside ( invitecode = "") so that the accounts will join the server after creation
-- add proxies inside "all://": "http://username:pass6@ip:port" or "all://": "http://ip:port" depending on your proxies authentication
+- add proxies inside "all://": "http://username:pass@ip:port" or "all://": "http://ip:port" depending on your proxies authentication
 - add proxies inside hcaptcha bypass too >  proxy="username:password6@ip:port" or proxy="ip:port"
 - Enjoy!
 
