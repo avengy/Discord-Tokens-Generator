@@ -18,6 +18,9 @@
 - add proxies inside hcaptcha bypass too >  proxy="username:password@ip:port" or proxy="ip:port"
 - Enjoy!
 
+# Why Release this?
+The reason i released this is because literally everyone is now skidding and opening their token shop i want discord to patch this and make security changes as that will make those skids go away as they can't really code lmfao
+
 # Contact
 - Discord : Avenger#7501
 
