@@ -19,7 +19,7 @@
 - Enjoy!
 
 # Why Release this?
-The reason i released this is because literally everyone is now skidding and opening their token shop i want discord to patch this and make security changes as that will make those skids go away as they can't really code lmfao
+The release of "astaroth" and some other gen sources that went public caused increase in number of skids and they all started their tokens shop 🤡 i wanna get rid of them so i'll be sending this to discord to patch fuck you skids!! 
 
 # Contact
 - Discord : Avenger#7501
